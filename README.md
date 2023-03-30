@@ -1,6 +1,6 @@
-### Olá! Eu Sou o Rodrigo Luz, desenvolvedor e analisa de dados
+### Olá! Eu Sou o Rodrigo Luz, Desenvolvedor e Analista de Dados
 
-- 🔭 Hoje trabalho com análise de dados e desenvolvimento de software 
+- 🔭 Hoje trabalho na área de análise de dados e desenvolvimento
 - 🌱 Estudando Python / Node js.
 - 📫 Contate-me no e-mail: rodrigolluzdevr@gmail.com
 
