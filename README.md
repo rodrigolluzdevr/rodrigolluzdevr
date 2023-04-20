@@ -1,6 +1,6 @@
 ### Olá! Eu Sou o Rodrigo Luz, Desenvolvedor e Analista de Dados
 
-- 🔭 Backend Developer | Data analytics | Tech Content Creator
+- 🔭 Desenvolvedor | Analista de dados | Criador de conteúdo técnico
 - 💼 Aberto a oportunidades de trabalho
 - 📫 e-mail: rodrigolluzdevr@gmail.com
 
