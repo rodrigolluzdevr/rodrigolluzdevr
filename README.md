@@ -1,4 +1,4 @@
-### Olá! Eu Sou o Rodrigo Luz, Desenvolvedor full-stack
+### Olá! Eu sou o Rodrigo Luz, Desenvolvedor full-stack
 
 - 🔭 Desenvolvedor | Analista de dados | Criador de conteúdo técnico
 - 📫 e-mail: rodrigolluzdevr@gmail.com
