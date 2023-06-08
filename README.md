@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Rodrigo Luz, Desenvolvedor FullStack
 
-- 🔭 Desenvolvedor FullStack
+- 🔭 Desenvolvedor Fullstack
 - 📫 e-mail: rodrigolluzdevr@gmail.com
 
 <div> 
