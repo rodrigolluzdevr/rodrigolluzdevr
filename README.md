@@ -5,8 +5,8 @@
 
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolluzdevr&rank_icon=github&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolluzdevr&rank_icon=github&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=midnight-purple"/>
 </div>
  
 <div style="display: inline_block"><br>
