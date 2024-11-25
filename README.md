@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Rodrigo Luz,
 
 - 🔭 Desenvolvedor | Analista de dados
-- 📫 e-mail: rodrigolluzdevr@gmail.com
+- 📫 E-mail: rodrigolluzdevr@gmail.com
 
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
