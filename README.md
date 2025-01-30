@@ -1,7 +1,6 @@
-### Olá! Eu sou o Rodrigo Luz,
+### Hello! I'm Rodrigo Luz,
 
-Desenvolvedor | Analista de dados
-#
+## Developer and Data Analyst.
 
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
