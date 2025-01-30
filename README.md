@@ -1,6 +1,6 @@
-### Hello! I'm Rodrigo Luz,
+## Hello! I'm Rodrigo Luz,
 
-## Developer and Data Analyst.
+### Developer and Data Analyst.
 
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
