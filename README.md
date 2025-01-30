@@ -1,5 +1,4 @@
-## Hello! I'm Rodrigo Luz,
-
+# Hello! I'm Rodrigo Luz,
 #### Developer and Data Analyst.
 
 <div> 
