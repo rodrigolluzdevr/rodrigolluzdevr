@@ -4,7 +4,7 @@
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolluzdevr&rank_icon=github&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=react"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=react"/> -->
 </div>
  
 <div style="display: inline_block"><br>
