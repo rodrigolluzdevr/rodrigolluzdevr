@@ -1,4 +1,4 @@
-<h1>Hi! I'm Rodrigo Luz,</h1>
+<h3>Hi! I'm Rodrigo Luz,</h3>
 <h3>software developer and data analyst</h3>
 
 <div> 
