@@ -1,10 +1,11 @@
-# Hello! I'm Rodrigo Luz,
-#### Developer and Data Analyst.
+<h1>Hi! I'm Rodrigo Luz,</h1>
+<h3>software developer and data analyst</h3>
 
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolluzdevr&rank_icon=github&theme=react"/>
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=react"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=react&hide=CSS,HTML&langs_count=6"/>
+  
 </div>
  
 <div style="display: inline_block"><br>
