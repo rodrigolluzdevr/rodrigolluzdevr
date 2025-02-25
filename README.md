@@ -4,7 +4,7 @@
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigolluzdevr&rank_icon=github&theme=react"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=react&hide=CSS,HTML&langs_count=6"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=react&hide=HTML,CSS,SCSS,PHP&langs_count=5"/>
   
 </div>
  
