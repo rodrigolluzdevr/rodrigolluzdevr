@@ -1,5 +1,5 @@
 <h3>Hi! I'm Rodrigo Luz,</h3>
-<h3>software developer and data analyst.</h3>
+<h3>Software Developer and Data Analyst.</h3>
 
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
@@ -9,10 +9,11 @@
 </div>
  
 <div style="display: inline_block"><br>
-  <img align="center" alt="Drigo-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"> 
+  
   <img align="center" alt="Drigo-TS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Drigo-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Drigo-C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-plain.svg">
+  <img align="center" alt="Drigo-GO" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg"> 
+  <img align="center" alt="Drigo-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg">
   <img align="center" alt="Drigo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div> 
   
