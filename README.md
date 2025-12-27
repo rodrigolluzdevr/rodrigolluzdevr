@@ -1,5 +1,6 @@
 <h3>Hi! I'm Rodrigo Luz,</h3>
-<h3>Software Developer and Data Analyst.</h3>
+<h3>Tech Lead and Software Engineer | Python, TypeScript, NestJS, React | AI Agents & Scalable Systems
+</h3>
 
 <div> 
   <ahref="https://www.linkedin.com/in/rodrigolluz/">
