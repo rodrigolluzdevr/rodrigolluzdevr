@@ -1,11 +1,5 @@
 <h3>Hi! I'm Rodrigo Luz,</h3>
 <h3>Tech Lead and Software Engineer</h3>
-
-<div> 
-  <ahref="https://www.linkedin.com/in/rodrigolluz/">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigolluzdevr&hide_progress=true&theme=react&hide=HTML,CSS,SCSS,PHP&langs_count=5"/>
-  
-</div>
  
 <div style="display: inline_block"><br>
   
